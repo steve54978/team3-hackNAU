@@ -1,0 +1,11 @@
+C:\Users\Nabil\source\repos\QNABot\QNABot\bin\Debug\netcoreapp1.1\QNABot.deps.json
+C:\Users\Nabil\source\repos\QNABot\QNABot\bin\Debug\netcoreapp1.1\QNABot.runtimeconfig.json
+C:\Users\Nabil\source\repos\QNABot\QNABot\bin\Debug\netcoreapp1.1\QNABot.runtimeconfig.dev.json
+C:\Users\Nabil\source\repos\QNABot\QNABot\bin\Debug\netcoreapp1.1\QNABot.dll
+C:\Users\Nabil\source\repos\QNABot\QNABot\bin\Debug\netcoreapp1.1\QNABot.pdb
+C:\Users\Nabil\source\repos\QNABot\QNABot\obj\Debug\netcoreapp1.1\QNABot.csprojResolveAssemblyReference.cache
+C:\Users\Nabil\source\repos\QNABot\QNABot\obj\Debug\netcoreapp1.1\QNABot.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\source\repos\QNABot\QNABot\obj\Debug\netcoreapp1.1\QNABot.AssemblyInfoInputs.cache
+C:\Users\Nabil\source\repos\QNABot\QNABot\obj\Debug\netcoreapp1.1\QNABot.AssemblyInfo.cs
+C:\Users\Nabil\source\repos\QNABot\QNABot\obj\Debug\netcoreapp1.1\QNABot.dll
+C:\Users\Nabil\source\repos\QNABot\QNABot\obj\Debug\netcoreapp1.1\QNABot.pdb
